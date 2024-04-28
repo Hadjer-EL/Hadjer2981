@@ -5,5 +5,5 @@ Hi there 👋
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Node.Js.
+- 🌱 I’m currently learning Data science.
 - 📫 How to reach me: elaaieidahadjer@gmail.com.
